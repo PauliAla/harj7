@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harj7/static/css/main.f855e6bc.css",
+    "main.js": "/harj7/static/js/main.0829a403.js",
+    "index.html": "/harj7/index.html",
+    "main.f855e6bc.css.map": "/harj7/static/css/main.f855e6bc.css.map",
+    "main.0829a403.js.map": "/harj7/static/js/main.0829a403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0829a403.js"
+  ]
+}
